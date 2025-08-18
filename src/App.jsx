@@ -4,7 +4,7 @@ export default function App () {
   return (
     <>
   <div className="card">
-    <img src="./public/avatar-jessica.jpeg" alt="jessica-avatar" />
+    <img src="/avatar-jessica.jpeg" alt="jessica-avatar" />
   <h2>Jessica Randall</h2>
   <h3>London, United Kingdom</h3>
   <p>"Front-end developer and avid reader."</p>
